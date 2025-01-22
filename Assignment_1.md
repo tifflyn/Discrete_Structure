@@ -1,5 +1,5 @@
 # Discrete Structure Assignment 1
-The solution created by our group from the question assigned by the professor: [DS_Assignment1]([file:///C:/Users/DELL/Downloads/DS_Y1S1_A1%20(1).pdf](https://sg.docworkspace.com/d/sICTv2-DYAePGu7wG))
+The solution created by our group from the question assigned by the professor: [DS_Assignment1](https://sg.docs.wps.com/module/common/loadPlatform/?sid=sICTv2-DYAePGu7wG&v=v2)
 
 **Reflection:**
 It was not a smooth journey when math questions were required to be solved in groups rather than individually. There are arguments and disagreements while solving the questions due to
